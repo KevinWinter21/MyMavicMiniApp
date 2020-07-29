@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyMavicMiniApp</string>
+    <string name="connect_to_mini">connect to Mini</string>
+    <string name="take_off">take off</string>
+    <string name="land">land</string>
+    <string name="rotate_90_CW">rotate 90 CW</string>
+    <string name="take_picture">take a picture</string>
+    <string name="make_a_5ft_square">5ft square</string>
+    <string name="obstacle_course">complete obstacle course</string>
+    <string name="set_home">set home</string>
+    <string name="go_home">go home</string>
+</resources>
